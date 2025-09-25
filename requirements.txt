@@ -17,3 +17,6 @@ uvicorn
 snowflake-connector-python
 prefect
 pytest
+psycopg2-binary
+sqlalchemy
+
